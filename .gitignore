@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+
+# Environment Variables
+.env
+*.env
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+
+# Project excluded directories
+presentation/
+resources/
+DOCUMENTATION_UPDATES.md
+DEVELOPMENT_LOG.md
+DELIVERABLES_CHECKLIST.md
